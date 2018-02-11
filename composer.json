@@ -1,5 +1,5 @@
 {
-    "name": "adman9000/laravel-cryptopia",
+    "name": "maxxyryo/laravel-cryptopia",
     "description": "Implementation of Cryptopia trading API for Laravel",
 	  "tags": ["binance", "api", "laravel"],
 	  "type": "library",
